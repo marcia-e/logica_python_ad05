@@ -1,0 +1,13 @@
+lista = [
+    "Arroz",
+    "Feijão",
+    "Café",
+    "Açucar",
+    "Pão",
+    "Manteiga"
+]
+
+#add novo item na lista enquanto o prog está rodando
+lista.append (input("Insira um novo item na lista de compras: "))
+
+print (lista)
